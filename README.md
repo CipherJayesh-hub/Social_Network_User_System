@@ -45,6 +45,7 @@ src/
  ├── util/          # HibernateUtil (SessionFactory)
  ├── app/           # Main class (execution)
  └── resources/     # hibernate.cfg.xml
+
 ⚙️ How to Run
 
 Clone the repository
